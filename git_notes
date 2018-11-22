@@ -1,0 +1,4 @@
+1. git init
+2. add a .gitignore file and add entries to init
+3. git add
+4. git commit -m 'message'
